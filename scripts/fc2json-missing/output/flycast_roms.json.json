@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dragon Treasure (Flycast) (NAOMI)",
+        "gameid": "flycast_dragntr",
+        "emulator": "flycast",
+        "system": "NAOMI",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Dragon Treasure 2 (Flycast) (NAOMI)",
+        "gameid": "flycast_dragntr2",
+        "emulator": "flycast",
+        "system": "NAOMI",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Sega Yonin Uchi Mahjong MJ (Flycast) (NAOMI)",
+        "gameid": "flycast_mj1",
+        "emulator": "flycast",
+        "system": "NAOMI",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Shootout Pool Prize (Flycast) (NAOMI)",
+        "gameid": "flycast_shootpl",
+        "emulator": "flycast",
+        "system": "NAOMI",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Star Horse Progress Returns (Flycast) (NAOMI)",
+        "gameid": "flycast_shorsepr",
+        "emulator": "flycast",
+        "system": "NAOMI",
+        "ranked": false,
+        "available_for": 1
+    }
+]

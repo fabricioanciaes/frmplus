@@ -1,2 +1,1 @@
-# frmplus
-Fightcade FRM Replacement made in golang
+# fc2json

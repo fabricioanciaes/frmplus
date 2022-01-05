@@ -1,0 +1,10 @@
+[
+    {
+        "name": "World Cup '90 (World)",
+        "gameid": "wc90",
+        "emulator": "fbneo",
+        "system": "Arcade FC2",
+        "ranked": false,
+        "available_for": 1
+    }
+]

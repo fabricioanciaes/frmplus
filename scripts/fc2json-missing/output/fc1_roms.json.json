@@ -1,0 +1,409 @@
+[
+    {
+        "name": "X-Men vs Street Fighter (961004 Euro) (ARCADE FC1)",
+        "gameid": "fc1_xmvsf",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 3
+    },
+    {
+        "name": "SvC Chaos - SNK vs Capcom Plus (bootleg, set 1) (ARCADE FC1)",
+        "gameid": "fc1_svcplus",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 2
+    },
+    {
+        "name": "Vampire Hunter 2 - darkstalkers revenge (970929 Japan) (ARCADE FC1)",
+        "gameid": "fc1_vhunt2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 2
+    },
+    {
+        "name": "Savage Reign (ARCADE FC1)",
+        "gameid": "fc1_savagere",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 1
+    },
+    {
+        "name": "Super Dodge Ball (ARCADE FC1)",
+        "gameid": "fc1_sdodgeb",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 1
+    },
+    {
+        "name": "Air Gallet (ARCADE FC1)",
+        "gameid": "fc1_agallet",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Guardians (ARCADE FC1)",
+        "gameid": "fc1_grdians",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Karate Blazers (ARCADE FC1)",
+        "gameid": "fc1_karatblz",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "King of Dragons (US 910910) (ARCADE FC1)",
+        "gameid": "fc1_kodu",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Power Drift (World, Rev A) (ARCADE FC1)",
+        "gameid": "fc1_pdrift",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Saturday Night Slam Masters (Slam Masters 930713 etc) (ARCADE FC1)",
+        "gameid": "fc1_slammast",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Sengoku (set 1) (ARCADE FC1)",
+        "gameid": "fc1_sengoku",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Sengoku 2 (ARCADE FC1)",
+        "gameid": "fc1_sengoku2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Sengoku 3 (ARCADE FC1)",
+        "gameid": "fc1_sengoku3",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Shock Troopers - 2nd squad (ARCADE FC1)",
+        "gameid": "fc1_shocktr2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Shock Troopers (set 1) (ARCADE FC1)",
+        "gameid": "fc1_shocktro",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Spin Master (ARCADE FC1)",
+        "gameid": "fc1_spinmast",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Street Hoop (ARCADE FC1)",
+        "gameid": "fc1_strhoop",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Strider (US set 1) (ARCADE FC1)",
+        "gameid": "fc1_strider",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Strikers 1945 plus (ARCADE FC1)",
+        "gameid": "fc1_s1945p",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Sidekicks (ARCADE FC1)",
+        "gameid": "fc1_ssideki",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Sidekicks 2 - the world championship (ARCADE FC1)",
+        "gameid": "fc1_ssideki2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Super Sidekicks 3 - the next glory (ARCADE FC1)",
+        "gameid": "fc1_ssideki3",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Tecmo World Soccer '96 (ARCADE FC1)",
+        "gameid": "fc1_tws96",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "The Punisher (930422 etc) (ARCADE FC1)",
+        "gameid": "fc1_punisher",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "The Ultimate 11 - SNK football championship (ARCADE FC1)",
+        "gameid": "fc1_ssideki4",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Thunder Heroes (ARCADE FC1)",
+        "gameid": "fc1_theroes",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Top Hunter - Roddy & Cathy (set 1) (ARCADE FC1)",
+        "gameid": "fc1_tophuntr",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Twinklestar Sprites (ARCADE FC1)",
+        "gameid": "fc1_twinspri",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Unsupported Games (ARCADE FC1)",
+        "gameid": "fc1_unsupported",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Vampire - the night warriors (940630 Japan) (ARCADE FC1)",
+        "gameid": "fc1_vampjr1",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Vampire Hunter - darkstalkers' revenge (950302 Japan) (ARCADE FC1)",
+        "gameid": "fc1_vhuntjr2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Vampire Savior - the lord of vampire (970519 Euro) (ARCADE FC1)",
+        "gameid": "fc1_vsav",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Vampire Savior 2 - the lord of vampire (970913 Japan) (ARCADE FC1)",
+        "gameid": "fc1_vsav2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Varth - operation thunderstorm (920714 etc) (ARCADE FC1)",
+        "gameid": "fc1_varth",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Voltage Fighter - Gowcaizer (ARCADE FC1)",
+        "gameid": "fc1_gowcaizr",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Waku Waku 7 (ARCADE FC1)",
+        "gameid": "fc1_wakuwak7",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Warriors of Fate (921002 etc) (ARCADE FC1)",
+        "gameid": "fc1_wof",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Willow (US) (ARCADE FC1)",
+        "gameid": "fc1_willow",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Wonder 3 (910520 Japan) (ARCADE FC1)",
+        "gameid": "fc1_wonder3",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "World Heroes (set 1) (ARCADE FC1)",
+        "gameid": "fc1_wh1",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "World Heroes 2 (ARCADE FC1)",
+        "gameid": "fc1_wh2",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "World Heroes 2 Jet (set 1) (ARCADE FC1)",
+        "gameid": "fc1_wh2j",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "World Heroes Perfect (ARCADE FC1)",
+        "gameid": "fc1_whp",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "X-Men - children of the atom (950105 Euro) (ARCADE FC1)",
+        "gameid": "fc1_xmcota",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Zupapa! (ARCADE FC1)",
+        "gameid": "fc1_zupapa",
+        "emulator": "fc1",
+        "system": "Arcade FC1",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    }
+]

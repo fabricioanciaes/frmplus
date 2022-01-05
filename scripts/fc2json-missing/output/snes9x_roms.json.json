@@ -1,0 +1,365 @@
+[
+    {
+        "name": "AIII S.V. - A Ressha de Ikou 3 - Super Version (Jpn) (SUPER NES)",
+        "gameid": "snes_aressh3",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Akagawa Jirou Majo-tachi no Nemuri (Jpn) (SUPER NES)",
+        "gameid": "snes_ajmajonm",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Barbie Vacation Adventure (USA, Prototype) (SUPER NES)",
+        "gameid": "snes_barbvac",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Buck Rogers - The Arcade Game (Euro, Prototype) (SUPER NES)",
+        "gameid": "snes_buckrog",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Contra Spirits (Jpn, Demo) (SUPER NES)",
+        "gameid": "snes_contraspd",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Dokapon 3-2-1 - Arashi o Yobu Yuujou (Jpn) (SUPER NES)",
+        "gameid": "snes_dokap321a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Doraemon - Nobita to Yousei no Kuni (Jpn) (SUPER NES)",
+        "gameid": "snes_doraemona",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Dungeon Master (USA) (SUPER NES)",
+        "gameid": "snes_dmasteru",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Final Fantasy - Mystic Quest (USA) (SUPER NES)",
+        "gameid": "snes_ffantmqa",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Final Fantasy II (USA) (SUPER NES)",
+        "gameid": "snes_ffant2a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Final Fantasy III (USA) (SUPER NES)",
+        "gameid": "snes_ffant3a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Final Fantasy IV (Jpn) (SUPER NES)",
+        "gameid": "snes_ffant4ja",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Final Fantasy USA - Mystic Quest (Jpn) (SUPER NES)",
+        "gameid": "snes_ffantmqj",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Final Fantasy V (Jpn) (SUPER NES)",
+        "gameid": "snes_ffant5j",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Final Fantasy VI (Jpn) (SUPER NES)",
+        "gameid": "snes_ffant6j",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame (Jpn) (SUPER NES)",
+        "gameid": "snes_ggoemon3a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Jpn) (SUPER NES)",
+        "gameid": "snes_ggoemkirb",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 2 (Jpn) (SUPER NES)",
+        "gameid": "snes_powyak2b",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Jikkyou World Soccer 2 - Fighting Eleven (Jpn) (SUPER NES)",
+        "gameid": "snes_jikkscr2a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Kouryuuki (Jpn) (SUPER NES)",
+        "gameid": "snes_koryuki",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Lobo (USA, Prototype, Dumped from bootleg cart) (SUPER NES)",
+        "gameid": "snes_lobo",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Lord Monarch (Jpn) (SUPER NES)",
+        "gameid": "snes_lordmonaa",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Madou Monogatari - Hanamaru Daiyouchienji (Jpn) (SUPER NES)",
+        "gameid": "snes_madoum",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Mahjong Taikai II (Jpn) (SUPER NES)",
+        "gameid": "snes_mjtaika2a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Ms. Pac-Man (USA) (SUPER NES)",
+        "gameid": "snes_mspacmanu",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Pac-Man 2 - The New Adventures (USA) (SUPER NES)",
+        "gameid": "snes_pacman2u",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "PGA Tour 96 (USA) (SUPER NES)",
+        "gameid": "snes_pga96ua",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "PGA Tour Golf (USA) (SUPER NES)",
+        "gameid": "snes_pgaua",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Picross NP Vol. 1 (Jpn, NP) (SUPER NES)",
+        "gameid": "snes_picrosv1a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Picross NP Vol. 4 (Jpn, NP) (SUPER NES)",
+        "gameid": "snes_picrosv4a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Pinkie (USA, Prototype) (SUPER NES)",
+        "gameid": "snes_pinkie",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Princess Maker - Legend of Another World (Jpn) (SUPER NES)",
+        "gameid": "snes_prinmak",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Ryuuko no Ken (Jpn) (SUPER NES)",
+        "gameid": "snes_ryukokena",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Shin Megami Tensei II (Jpn) (SUPER NES)",
+        "gameid": "snes_shinmt2b",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Shodai Nekketsu Kouha Kunio-kun (Jpn) (SUPER NES)",
+        "gameid": "snes_shodaneka",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1,
+        "clients": 0
+    },
+    {
+        "name": "Sound Factory (Jpn) (SUPER NES)",
+        "gameid": "snes_soundfct",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Star Ocean (Jpn) (SUPER NES)",
+        "gameid": "snes_starocn",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Daikoukai Jidai (Jpn) (SUPER NES)",
+        "gameid": "snes_daikokaia",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Jinsei Game 3 (Jpn) (SUPER NES)",
+        "gameid": "snes_sjinsei3a",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Loopz (Jpn) (SUPER NES)",
+        "gameid": "snes_sloopzj",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Mahjong Taikai (Jpn) (SUPER NES)",
+        "gameid": "snes_supermjte",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Super Oozumou - Nessen Ooichiban (Jpn, Prototype) (SUPER NES)",
+        "gameid": "snes_superozup",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Targa (Prototype) (SUPER NES)",
+        "gameid": "snes_targa",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Umizuri Meijin - Suzuki Hen (Jpn) (SUPER NES)",
+        "gameid": "snes_umizurim",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    },
+    {
+        "name": "Yokozuna Monogatari (Jpn) (SUPER NES)",
+        "gameid": "snes_yokozunaa",
+        "emulator": "snes9x",
+        "system": "Super NES",
+        "ranked": false,
+        "available_for": 1
+    }
+]

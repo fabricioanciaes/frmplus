@@ -1,0 +1,10 @@
+[
+    {
+        "name": "The Heist (COLECOVISION)",
+        "gameid": "cv_heist",
+        "emulator": "fbneo",
+        "system": "ColecoVision",
+        "ranked": false,
+        "available_for": 1
+    }
+]

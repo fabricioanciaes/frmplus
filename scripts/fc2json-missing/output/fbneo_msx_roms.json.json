@@ -1,0 +1,10 @@
+[
+    {
+        "name": "MSX Basic (MSX 1)",
+        "gameid": "msx_msxbasic",
+        "emulator": "fbneo",
+        "system": "MSX 1",
+        "ranked": false,
+        "available_for": 1
+    }
+]
